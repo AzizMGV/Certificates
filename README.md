@@ -1,4 +1,4 @@
 # Certifications
 
-##Course Certificates
-##Сертификаты курсов.
+## Course Certificates
+## Сертификаты курсов.
