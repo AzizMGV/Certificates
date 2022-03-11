@@ -1,3 +1,4 @@
 # Certifications
 
-Сертификаты курсов и т.п. 
+##Course Certificates
+##Сертификаты курсов.
